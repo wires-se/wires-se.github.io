@@ -197,8 +197,8 @@ installed and is working.</p>
 <p>For online documentation and support please refer to the
 <a href="https://kernelkit.github.io/">Infix Homepage</a>.<br/>
 
-Commercial support and customer adaptations are available from
-<a href="https://addiva.se/electronics">Addiva Elektronik AB</a>.</p>
+Commercial support and customer branding options are available from
+<a href="https://www.wires.se/">Wires AB</a>, Sweden.</p>
 
 <p><em>Thank you for reading this blog post!</em></p>
 </body>

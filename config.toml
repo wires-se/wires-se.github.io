@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Addiva Elektronik"
+#title   = "Wires"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -8,10 +8,12 @@ theme = "hello-friend-ng"
 pygmentsUseClasses = false
 PygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+#PygmentsStyle = "default"
 #PygmentsStyle = "monokai"
 PygmentsStyle = "native"
 #PygmentsStyle = "dracula"
 #PygmentsStyle = "gruvbox"
+#PygmentsStyle = "gruvbox-light"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
@@ -46,7 +48,7 @@ disableHugoGeneratorInject = false
   posts = "/:year/:month/:day/:title/"
 
 [author]
-  name = "Addiva Elektronik"
+  name = "Wires"
 
 [markup]
   [markup.tableOfContents]
@@ -149,8 +151,8 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = "~$"
-    logoText     = ""
-    logoHomeLink = "/"
+    logoText     = "wires"
+    #logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
@@ -173,28 +175,29 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  [params.portrait]
+    # path     = "/img/image.jpg"
+    path     = "/images/logo_wires_rgb_large.png"
+    alt      = "Portrait"
+    maxWidth = "500px"
 
   # Social icons
   # use 'fab' when brand icons, use 'fas' when standard solid icons.
   [[params.social]]
     name = "case"
-    url  = "https://www.addiva.se/contact/"
+    url  = "https://www.wires.se/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:contact@addiva.se"
+    url  = "mailto:info@wires.se"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/addiva-elektronik"
+    url  = "https://github.com/wires-se"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/company/addivaelektronik/"
+    url  = "https://www.linkedin.com/company/wiresab/"
 
 [menu]
   [[menu.main]]

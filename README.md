@@ -1,13 +1,13 @@
 Tech Blog and Course Material
 =============================
 
-We use [Hugo](https://gohugo.io) to generate: <https://addiva-elektronik.github.io/>
+We use [Hugo](https://gohugo.io) to generate: <https://wires-se.github.io/>
 
 To contribute to the blog, either fork this repository, or if you are a
 registered employee, clone the repository:
 
     cd
-    git clone git@github.com:addiva-elektronik/addiva-elektronik.github.io.git blog
+    git clone git@github.com:wires-se/wires-se.github.io.git blog
     cd blog/
     git submodule update --init --recursive
 

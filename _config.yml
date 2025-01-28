@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Addiva Elektronik
+title: Wires
 #mail: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tech. blog and course material
 baseurl: "" # the subpath of your site, e.g. /blog
-#url:  https://addiva-elektronik.github.io
+#url:  https://wires-se.github.io
 logo: assets/Addiva_Elektronik_logga.png
-#github_username:  addiva-elektronik
+#github_username:  wires-se
 search: true
 search_full_content: true
 

@@ -81,7 +81,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Specialist expertise in electronics design and embedded systems"
+  homeSubtitle = "Mission-critical electronics and embedded systems"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -176,8 +176,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    # path     = "/img/image.jpg"
-    path     = "/images/logo_wires_rgb_large.png"
+    path     = "/images/play.svg"
     alt      = "Portrait"
     maxWidth = "500px"
 

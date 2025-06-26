@@ -34,6 +34,7 @@ jobs:
     steps:
       - name: Install Hugo CLI
         run: |
+          sudo apt update
           sudo apt install -y hugo
       - name: Checkout
         uses: actions/checkout@v4

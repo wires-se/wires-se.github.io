@@ -7,7 +7,6 @@ permalink: /about/
   <a href="https://www.wires.se/"><img src="/images/play.svg" width="400px"></a>
 </div>
 
-Wires offers specialist expertise in electronics design and embedded
 **Wires** designs advanced electronics and embedded systems — from
 bare-metal microcontrollers to full Linux platforms.
 
